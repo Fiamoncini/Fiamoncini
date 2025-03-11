@@ -1,7 +1,7 @@
 # Olá! Eu sou o Pedro Alegria Fiamoncini 👋
 
 ## Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções inovadoras. Tenho experiência como desenvolvedor full-stack e estou constantemente em busca de novos desafios para crescer e contribuir em projetos impactantes. Tenho uma sólida base em várias tecnologias e busco sempre aprender e me aprimorar.
+Sou um desenvolvedor com 2 anos de experiência, apaixonado por tecnologia, sempre em busca de soluções inovadoras.
 
 ---
 
