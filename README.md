@@ -54,7 +54,7 @@ Aqui estão alguns dos projetos que desenvolvi e com os quais tenho orgulho:
 
 - **[To-Do List em Vue.js](https://github.com/Fiamoncini/To-Do-List-Vue.js)**:
   - Lista de tarefas interativa com adição e remoção de itens.
-  - Tecnologias: Vue.js, Vuex, LocalStorage.
+  - Tecnologias: Vue.js, HTML, CSS, LocalStorage.
 
 - **[Senha Aleatória em PHP](https://github.com/Fiamoncini/Senha-aleatoria-php)**:
   - Gerador de senha aleatória em PHP.
