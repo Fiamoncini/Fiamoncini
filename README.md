@@ -18,6 +18,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções in
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Banco de Dados
 
@@ -46,6 +47,14 @@ Aqui estão alguns dos projetos que desenvolvi e com os quais tenho orgulho:
 - **[Discord Music Bot](https://github.com/Fiamoncini/Fiamoncini-BOT)**: 
   - Bot de música para Discord usando a API do YouTube.
   - Tecnologias: Python, discord.py.
+
+- **[Teste de Digitação](https://github.com/Fiamoncini/Teste-de-Digitacao)**: 
+  - Aplicação para testar a velocidade e precisão da digitação.
+  - Tecnologias: JavaScript, HTML, CSS.
+
+- **[To-Do List em Vue.js](https://github.com/Fiamoncini/To-Do-List-Vue.js)**:
+  - Lista de tarefas interativa com adição e remoção de itens.
+  - Tecnologias: Vue.js, Vuex, LocalStorage.
 
 ---
 
