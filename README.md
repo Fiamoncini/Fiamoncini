@@ -56,6 +56,10 @@ Aqui estão alguns dos projetos que desenvolvi e com os quais tenho orgulho:
   - Lista de tarefas interativa com adição e remoção de itens.
   - Tecnologias: Vue.js, Vuex, LocalStorage.
 
+- **[Senha Aleatória em PHP](https://github.com/Fiamoncini/Senha-aleatoria-php)**:
+  - Gerador de senha aleatória em PHP.
+  - Tecnologias: PHP, CSS.
+
 ---
 
 ## Contato
