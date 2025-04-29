@@ -1,7 +1,7 @@
 # Olá! Eu sou o Pedro 👋
 
 ## Sobre mim
-Sou um desenvolvedor com 2 anos de experiência, apaixonado por tecnologia, sempre em busca de soluções inovadoras.
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de soluções inovadoras.
 
 ---
 
