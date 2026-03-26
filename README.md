@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;React+%26+Vue.js;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Desenvolvedor Full Stack apaixonado por construir soluções que fazem a diferença.  
-Baseado em Blumenau, SC 🇧🇷
+Blumenau, SC 🇧🇷
 
 ---
 
