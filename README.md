@@ -26,7 +26,6 @@
 📍 **Blumenau, SC** · 🇧🇷 Brasil
 
 
-
 ---
 
 ### 🧑‍💻 Sobre mim
@@ -35,6 +34,7 @@ Desenvolvedor Full Stack com foco em **Java/Spring Boot** no back-end e **React/
 
 ---
 </div>
+
 ### ⚙️ Tech Stack
 
 <div align="center">
@@ -70,23 +70,17 @@ Desenvolvedor Full Stack com foco em **Java/Spring Boot** no back-end e **React/
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrofiamoncini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofiamoncini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
-</div>
-
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fiamoncini&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Fiamoncini&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pedrofiamoncini&color=00d9ff&style=flat-square&label=Visitas+no+perfil" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Fiamoncini&color=00d9ff&style=flat-square&label=Visitas+no+perfil" alt="Profile views"/>
 
 <br/><br/>
 
