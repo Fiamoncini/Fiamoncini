@@ -30,7 +30,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Desenvolvedor Full Stack. Gosto de transformar problemas complexos em soluções simples, performáticas e bem estruturadas. Sempre buscando aprender algo novo e contribuir com a comunidade dev.
+Gosto de transformar problemas complexos em soluções simples, performáticas e bem estruturadas. Sempre buscando aprender algo novo e contribuir com a comunidade dev.
 
 ---
 </div>
