@@ -30,7 +30,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Desenvolvedor Full Stack com foco em **Java/Spring Boot** no back-end e **React/Vue.js** no front-end. Gosto de transformar problemas complexos em soluções simples, performáticas e bem estruturadas. Sempre buscando aprender algo novo e contribuir com a comunidade dev.
+Desenvolvedor Full Stack. Gosto de transformar problemas complexos em soluções simples, performáticas e bem estruturadas. Sempre buscando aprender algo novo e contribuir com a comunidade dev.
 
 ---
 </div>
